@@ -13,5 +13,5 @@ It will install all the necessary libraries. Then just type:
 
 you are good to go.
 
-If you find this useful and want more scrapper for websites. give it a star and reach me out [linkedIn](https://www.linkedin.com/in/uzair-kabeer-9015a4205/) .
+If you find this useful and want more scrapper for websites. give it a star and reach me out [linkedIn](https://www.linkedin.com/in/uzair-kabeer-9015a4205/ "My linked In") .
 
